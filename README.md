@@ -8,16 +8,12 @@
 <h1>Lock files with your fingerprint. Free, and open to read.</h1>
 <p class="lede">Veil encrypts the files and folders you pick, hides them from Finder and Spotlight, and opens them only with Touch ID. It runs entirely on your Mac.</p>
 <div class="btns">
-<a class="btn primary" href="https://github.com/YOUR_USER/veil/releases/latest/download/Veil.dmg">Download for Mac</a>
-<a class="btn" href="https://github.com/YOUR_USER/veil">View the source</a>
+<a class="btn primary" href="https://github.com/virajk25/veil/releases/latest/download/Veil.dmg">Download for Mac</a>
+<a class="btn" href="https://github.com/virajk25/veil">View the source</a>
 </div>
 <p class="small">Needs macOS 13 or later. MIT licensed. No account.</p>
 </div>
-
-<div class="demo" aria-live="polite">
-<div class="row"><span class="ico" aria-hidden="true">📄</span><span class="name" id="fname">Tax-return-2026.pdf</span></div>
-<p class="state" id="fstate">Visible in Finder. Anyone using your Mac can open it.</p>
-<button id="fbtn" type="button">Lock with Veil</button>
+  
 </div>
 </div>
 
